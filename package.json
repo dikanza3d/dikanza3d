@@ -1,6 +1,7 @@
 {
   "name": "dikanza3d",
   "version": "0.0.0",
+  "homepage": "github-pages/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
