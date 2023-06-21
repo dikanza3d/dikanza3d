@@ -5,13 +5,13 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build ng build -c production",
+    "build": "ng build -c production",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^14.0.0",
+    "@angular/animations": "^15.2.0",
     "@angular/common": "^15.2.0",
     "@angular/compiler": "^15.2.0",
     "@angular/core": "^15.2.0",
