@@ -42,8 +42,8 @@
             ],
             "scripts": [
               "src/assets/js/jquery-3.5.1.min.js",
-              "src/assets/js/webfont.js",
-              "src/assets/js/webflow.js"
+              "src/assets/js/webflow.js",
+              "src/assets/js/webfont.js"
             ]
           },
           "configurations": {
