@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-      
+
 jobs:
   deploy:
     runs-on: ubuntu-22.04
@@ -13,7 +13,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 'v18.x'
-      - name: Build web-app
+      - name: Build dikanza3d.com
         run: |
           npm ci
           npm run build
